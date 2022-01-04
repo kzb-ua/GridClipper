@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/grid_clipper" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
